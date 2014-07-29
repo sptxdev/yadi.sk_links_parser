@@ -12,6 +12,6 @@ pause
 
 This will work on the html files in the current directory.
 
-The result is are 2 files 
+The output is in the form of 2 files:
  - a text file with links
- - a launcher for the links to be opened in Chorme.
+ - a launcher for the links to be opened in Chrome.
